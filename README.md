@@ -68,6 +68,7 @@ Acredito que a tecnologia deve ser uma aliada da produtividade. Por isso, estou 
 
 ✔ 🛠️ Workflow Profissional
 
+---
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0670f2e4-78e1-4ca7-bdf9-e30355f3e9af" width="600px">
