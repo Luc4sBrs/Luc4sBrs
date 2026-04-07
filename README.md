@@ -1,31 +1,90 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=8B0000&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Lucas+Brayan+Da+Silva!;Full+Stack+Developer;Turning+Code+into+Solutions;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Lucas%20Brayan&fontSize=90&animation=fadeIn" />
+</p>
 
+## 💻 Function
+
+<h3 align="center">
+   <b>Full-Stack and Integration Developer | APIs, Web Systems and Integrations with AI</b>
+</h3>
+
+## 👤 Sobre Mim
+
+Olá! Sou o **Lucas Brayan**, um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Meu foco principal é o desenvolvimento **Full-Stack** e a **Automação de Processos**, unindo a construção de interfaces modernas com back-ends robustos e fluxos inteligentes.
+
+Atualmente, dedico meu tempo a:
+* 🌐 Criar sistemas web performáticos utilizando o ecossistema **React + Vite + Tailwind**.
+* ⚙️ Desenvolver arquiteturas de servidor e APIs integradas com **Node.js** e **Python**.
+* 🤖 Implementar automações de alto nível com **n8n**, conectando serviços e otimizando fluxos de trabalho.
+* ☁️ Gerenciar infraestruturas e soluções em nuvem utilizando **Skyone Studio**.
+
+Acredito que a tecnologia deve ser uma aliada da produtividade. Por isso, estou sempre explorando novas formas de integrar **Inteligência Artificial** e automação para transformar linhas de código em soluções reais de negócio. 🚀
+
+
+## 📊 Github Stats
+
+<p align="center">
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sBrs&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats (O que estava funcionando, mantive) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRovaniMarcelino&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+## 🛠 Tech Stack
+
+💻 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+⚙️ **Back-end & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
+
+🌐 **Front-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+🤖 **Automation & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=n8n,git,github,vscode" />
+</p>
+
+☁️ **Cloud & Infrastructure**
+`Skyone Studio`
+
+##  🚀 Habilidades
+
+✔ 🧠 Desenvolvimento Full-Stack
+
+✔ 🐍 Automação e Inteligência
+
+✔ 🗄️ Arquitetura de Dados e Infra
+
+✔ 🛠️ Workflow Profissional
 
 
 <div align="center">
-  <a href="https://www.instagram.com/lucas_brayannx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-brayan-42bb11354"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <img src="https://github.com/user-attachments/assets/0670f2e4-78e1-4ca7-bdf9-e30355f3e9af" width="600px">
 </div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luc4sBrs&theme=dark&fire=8B0000" alt="Streak Stats" />
-</p>
+## 📫 Contact
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sBrs&layout=compact&theme=radical)
+<div align="center">
+  
+  <a href="https://www.instagram.com/lucas_brayannx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-brayan-42bb11354" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Luc4sBrs?template=classic&base.header=0&base.activity=0&base.community=0&colors.primary=8B0000" />
-</p>
-
-## Tecnologias que Utilizo
-
-<div style="display: inline_block"><br/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
-    <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black" />
-    <img alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
-</div><br>
