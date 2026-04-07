@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Lucas%20Brayan&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0f8ff&height=200&section=header&text=Lucas%20Brayan&fontSize=90&fontColor=1a1a1a&animation=fadeIn" />
 </p>
 
 ## 💻 Function
