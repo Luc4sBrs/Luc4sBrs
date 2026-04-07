@@ -52,7 +52,7 @@ Acredito que a tecnologia deve ser uma aliada da produtividade. Por isso, estou 
 
 🤖 **Automation & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ☁️ **Cloud & Infrastructure**
