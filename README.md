@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_brayannx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-brayan-42bb11354)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc4sBrsshow_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=transparent)
 
 ## Tecnologias que Utilizo
 
