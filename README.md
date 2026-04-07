@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Lucas%20Brayan&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Lucas%20Brayan&fontSize=80&animation=fadeIn" />
 </p>
 
 ## 💻 Function
@@ -28,11 +28,8 @@ Acredito que a tecnologia deve ser uma aliada da produtividade. Por isso, estou 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
   <!-- Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sBrs&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <!-- Streak Stats (O que estava funcionando, mantive) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRovaniMarcelino&theme=tokyonight&hide_border=true"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luc4sBrs&theme=dark&hide_border=true"/>
 </p>
 
 
