@@ -1,88 +1,99 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0f8ff&height=200&section=header&text=Lucas%20Brayan&fontSize=90&fontColor=1a1a1a&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=Lucas%20Brayan&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## 💻 Function
-
 <h3 align="center">
-   <b>Full-Stack and Integration Developer | APIs, Web Systems and Integrations with AI</b>
+  🚀 Full-Stack & Integration Developer | Mobile Dev (Flutter) | AI & Process Automation
 </h3>
+
+<br />
 
 ## 👤 Sobre Mim
 
-Olá! Sou o **Lucas Brayan**, um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Meu foco principal é o desenvolvimento **Full-Stack** e a **Automação de Processos**, unindo a construção de interfaces modernas com back-ends robustos e fluxos inteligentes.
+Olá! Sou o **Lucas Brayan**, desenvolvedor focado em criar aplicações web/mobile robustas, construir arquiteturas escaláveis e automatizar processos inteligentes.
 
-Atualmente, dedico meu tempo a:
-* 🌐 Criar sistemas web performáticos utilizando o ecossistema **React + Vite + Tailwind**.
-* ⚙️ Desenvolver arquiteturas de servidor e APIs integradas com **Node.js** e **Python**.
-* 🤖 Implementar automações de alto nível com **n8n**, conectando serviços e otimizando fluxos de trabalho.
-* ☁️ Gerenciar infraestruturas e soluções em nuvem utilizando **Skyone Studio**.
+- 📱 **Mobile:** Desenvolvimento de aplicações multiplataforma modernas com **Dart & Flutter**.
+- 🌐 **Front-end:** Criação de interfaces performáticas utilizando **React, Vite e Tailwind CSS**.
+- ⚙️ **Back-end & APIs:** Desenvolvimento de APIs ágeis e integrações robustas com **FastAPI (Python)** e **Node.js**.
+- 🤖 **Automação & IA:** Construção de fluxos complexos com **n8n**, conectando serviços e aplicando Inteligência Artificial em negócios.
+- ☁️ **Cloud & Infra:** Gestão e implantação de infraestrutura em nuvem utilizando **Skyone Studio**.
 
-Acredito que a tecnologia deve ser uma aliada da produtividade. Por isso, estou sempre explorando novas formas de integrar **Inteligência Artificial** e automação para transformar linhas de código em soluções reais de negócio. 🚀
-
-
-## 📊 Github Stats
-
-<p align="center">
-  <!-- Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luc4sBrs&layout=compact&theme=dark&hide_border=true" />
-  <!-- Streak Stats (O que estava funcionando, mantive) -->
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luc4sBrs&theme=dark&hide_border=true"/>
-</p>
-
+---
 
 ## 🛠 Tech Stack
 
-💻 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="center">
+  <b>Languages</b><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,dart,html,css" />
+  </a>
 </p>
 
-⚙️ **Back-end & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+<p align="center">
+  <b>Mobile & Front-end</b><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind" />
+  </a>
 </p>
 
-🌐 **Front-end**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<p align="center">
+  <b>Back-end & Database</b><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql" />
+  </a>
 </p>
 
-🤖 **Automation & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <b>Tools & Workflow</b><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
 </p>
 
-☁️ **Cloud & Infrastructure**
-`Skyone Studio`
+<p align="center">
+  <b>Cloud & Infrastructure</b><br />
+  <code>Skyone Studio</code>
+</p>
 
-##  🚀 Habilidades
+---
 
-✔ 🧠 Desenvolvimento Full-Stack
+## 📊 GitHub Stats
 
-✔ 🐍 Automação e Inteligência
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luc4sBrs&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sBrs&layout=compact&theme=dark&hide_border=true&hide=html,css" />
+</p>
 
-✔ 🗄️ Arquitetura de Dados e Infra
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luc4sBrs&theme=dark&hide_border=true" />
+</p>
 
-✔ 🛠️ Workflow Profissional
+---
+
+## 🚀 Principais Habilidades
+
+- 📱 **Mobile Development:** Apps nativos e cross-platform com Flutter e gerenciamento de estado eficiente.
+- 🧠 **Full-Stack Web:** Aplicações end-to-end com React no front-end e FastAPI/Node.js no back-end.
+- ⚡ **APIs de Alta Performance:** Criação de microsserviços rápidos e documentados (Swagger/OpenAPI com FastAPI).
+- 🐍 **Automação & IA:** Integração de LLMs, webhooks e workflows inteligentes via n8n e Python.
+- 🗄️ **Banco de Dados & Nuvem:** Modelagem MySQL e deploy/gerenciamento na nuvem Skyone Studio.
 
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0670f2e4-78e1-4ca7-bdf9-e30355f3e9af" width="600px">
+  <img src="https://github.com/user-attachments/assets/0670f2e4-78e1-4ca7-bdf9-e30355f3e9af" width="600px" alt="Footer Banner">
 </div>
 
-## 📫 Contact
+<br />
 
-<div align="center">
-  
-  <a href="https://www.instagram.com/lucas_brayannx" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+## 📫 Conecte-se Comigo
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucas-brayan-42bb11354" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</div>
-
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/lucas_brayannx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
