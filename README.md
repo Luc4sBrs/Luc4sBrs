@@ -25,14 +25,14 @@ Olá! Sou o **Lucas Brayan**, desenvolvedor focado em criar aplicações web/mob
 <p align="center">
   <b>Languages</b><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,dart,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,js,dart,html,css,java" />
   </a>
 </p>
 
 <p align="center">
   <b>Mobile & Front-end</b><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,php" />
   </a>
 </p>
 
